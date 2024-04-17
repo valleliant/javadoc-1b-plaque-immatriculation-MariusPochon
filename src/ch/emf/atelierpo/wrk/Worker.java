@@ -60,4 +60,5 @@ public class Worker {
         }
         return valeurDeRetour;
     }
+    
 }
